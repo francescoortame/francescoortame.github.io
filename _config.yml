@@ -22,12 +22,12 @@ repository               : "francescoortame/francescoortame.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-pic.png"
   name             : "Francesco Ortame"
   pronouns         : # example: "she/her"  
-  bio              : "Research scientist"
+  bio              : "Research Scientist"
   location         : "Rome, Italy"
-  employer         : "Italian National Institute of Statistics"
+  employer         : "Istat"
   uri              : # URL
   email            : "francesco.ortame@gmail.com" 
 

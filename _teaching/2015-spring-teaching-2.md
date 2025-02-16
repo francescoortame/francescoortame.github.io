@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Python for Data Science"
 collection: teaching
-type: "Workshop"
+type: "Diploma"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "SNA - National School of Administration"
+date: 2024-01-11
+location: "Online"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I teach *Python for Data Science* at the national school of administration.
 
 Heading 1
 ======
